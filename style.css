@@ -1,0 +1,39 @@
+body{
+    background-color: #a9f04b;
+}
+
+h1{
+    font-family: 'Special Elite', fantasy;
+    color: blue;
+    background-color: cornsilk;
+}
+
+#sketch_name{
+    color: red;
+}
+
+#show_sketch{
+    float: right;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px gray;
+    box-shadow: 1px 1px 1px white;
+    animation-name: example;
+    padding-top: 10px;
+    font-family: 'Special Elite', fantasy;
+    font-size: 25px;
+}
+#score{
+    font-size: 35px;
+    margin-top: 20px;
+}
+
+#time{
+    font-size: 35px;
+    float: right;
+    margin-right: 20px;
+}
